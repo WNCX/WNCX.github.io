@@ -1,0 +1,1 @@
+modpacks/overrides/mods/MTR-fabric-1.18.2-3.2.2-hotfix-1.jar filter=lfs diff=lfs merge=lfs -text
