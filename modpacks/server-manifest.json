@@ -1,8 +1,8 @@
 {
   "name": "WCMTR1.18.2",
   "author": "Whoncxis",
-  "version": "1.0",
-  "description": "",
+  "version": "1.1",
+  "description": "1.1：追加联机模组（仅正版玩家可玩）\n1.0：创建整合包",
   "fileApi": "https://wncx.github.io/modpacks",
   "files": [
     {
@@ -588,6 +588,10 @@
     {
       "path": "mods/cloth-config-6.4.90-fabric.jar",
       "hash": "4c88bab53b54736e87776b2b1c13343a70d43114"
+    },
+    {
+      "path": "mods/Essential-fabric_1-18-2.jar",
+      "hash": "5c383c8fd994f6963de85840f2ae75c5b6be9925"
     },
     {
       "path": "mods/fabric-api-0.76.0+1.18.2.jar",
