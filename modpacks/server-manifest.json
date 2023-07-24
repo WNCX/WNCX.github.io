@@ -1,9 +1,9 @@
 {
-  "name": "WCMTR1.18.2",
+  "name": "1.18.2",
   "author": "Whoncxis",
-  "version": "1.1.1",
-  "description": "#需要正版登录！！！\n#请登录你的正版账号！！！\n#否则无法进行广域网联机！！！",
-  "fileApi": "http://wncx.github.io/modpacks",
+  "version": "1.2",
+  "description": "",
+  "fileApi": "https://wncx.github.io/modpacks",
   "files": [
     {
       "path": "config/fabric/indigo-renderer.properties",
@@ -574,98 +574,6 @@
       "hash": "6e94bcf19a62de427570bd13236fdca7334d7bc6"
     },
     {
-      "path": "essential/avatar-cache/4/8/0682d5298332209e2f1ac14919c46e",
-      "hash": "1a77030fbde6bca9f0625e2acaa3c60e4b338a70"
-    },
-    {
-      "path": "essential/config.toml",
-      "hash": "1ca093053e7c799e3ea7bc2cdd9de7a214462d9a"
-    },
-    {
-      "path": "essential/Essential (fabric_1.18.2).jar",
-      "hash": "6bb62063a6be1aec6991f75987936a572c8e73df"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/annotations-13.0.jar",
-      "hash": "3d6500dec26e5a33b84802a9efd0dab1e62ea2a9"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/atomicfu-jvm-0.18.2.jar",
-      "hash": "68bf26aca349e26ccc6df1299bf612243fae372a"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/elementa-1.18.1-fabric-590.jar",
-      "hash": "bd6bec246190b740a40cb4230d788e1fa311484e"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/fabric-language-kotlin-1.8.2+kotlin.1.7.10-relaxed-fabricloader.jar",
-      "hash": "1e257535d73bba62d0ef5ce460e2ed5c6631d1a2"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlin-reflect-1.7.10.jar",
-      "hash": "7d9cbc495b7acd8a4d5c39d84c0ce4d7440f71ca"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlin-stdlib-1.7.10.jar",
-      "hash": "c2be5261fbb0606c2b0fb080bd848f1257b9ce03"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlin-stdlib-jdk7-1.7.10.jar",
-      "hash": "bc562283114cd81d6358957aa9b550421cfb6a09"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlin-stdlib-jdk8-1.7.10.jar",
-      "hash": "01671f00c54da8a10dd94c01e4d8ec43a5b7c9bf"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlinx-coroutines-core-jvm-1.6.4.jar",
-      "hash": "8a6796d817ffcd44a3eb156195c7dde7d3f355c4"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlinx-coroutines-jdk8-1.6.4.jar",
-      "hash": "eade5c10bd9941130633cbb579ecb1e9cabe2d4f"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlinx-datetime-jvm-0.4.0.jar",
-      "hash": "2db126a4156d30d0a81ce6f654fe5709b3432da6"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlinx-serialization-cbor-jvm-1.3.3.jar",
-      "hash": "7ece71372c83bf572e9d90f3e9f4907c554c486a"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlinx-serialization-core-jvm-1.3.3.jar",
-      "hash": "ee83a8f33a48df4c14ad1592434b9fcd99cf546a"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/kotlinx-serialization-json-jvm-1.3.3.jar",
-      "hash": "6d52b50b9088eeb6034be4e21221742c5c416b15"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/universalcraft-1.18.1-fabric-277.jar",
-      "hash": "cafbb098430f66c01f0785cf8311c6fcada62733"
-    },
-    {
-      "path": "essential/libraries/fabric_1.18.2/vigilance-1.18.1-fabric-284.jar",
-      "hash": "45ed810a82e839ba2b9e152dc07eccfd4bc499d3"
-    },
-    {
-      "path": "essential/loader/stage0/fabric/stage1.jar",
-      "hash": "018ca24158eabc376d7efbc15b700c693a5dd432"
-    },
-    {
-      "path": "essential/loader/stage1/fabric/stage2.fabric_1.18.2.jar",
-      "hash": "e7397a5c9bdac3e868d6affbb9053e5137b39f3b"
-    },
-    {
-      "path": "essential/onboarding.json",
-      "hash": "597fdbd16529554b595c4217700dae3a7a2b50e5"
-    },
-    {
-      "path": "essential/version.json",
-      "hash": "4fe7027125dea106553bb295813c179345f8b9ce"
-    },
-    {
       "path": "irisUpdateInfo.json",
       "hash": "0cf1a51a0680984074a565bf4d1f18f880ee305f"
     },
@@ -680,14 +588,6 @@
     {
       "path": "mods/cloth-config-6.4.90-fabric.jar",
       "hash": "4c88bab53b54736e87776b2b1c13343a70d43114"
-    },
-    {
-      "path": "mods/Essential Dependencies.jar",
-      "hash": "0ba01f3918f2cce14d363a3e1738ac4f4560771e"
-    },
-    {
-      "path": "mods/Essential-fabric_1-18-2.jar",
-      "hash": "5c383c8fd994f6963de85840f2ae75c5b6be9925"
     },
     {
       "path": "mods/fabric-api-0.76.0+1.18.2.jar",
@@ -708,6 +608,10 @@
     {
       "path": "mods/Joban-Client-Mod-1.18.2-1.2.1-hotfix-1.jar",
       "hash": "add6a91c2e18a4bf0a7d44093f7a3cb6bf476f41"
+    },
+    {
+      "path": "mods/lanserverproperties-1.8-fabric.jar",
+      "hash": "55e7785832b5085f01b3c0d4c1427a50d1e6d384"
     },
     {
       "path": "mods/modmenu-3.2.2.jar",
