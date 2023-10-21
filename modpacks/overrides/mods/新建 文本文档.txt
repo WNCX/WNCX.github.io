@@ -1,0 +1,6 @@
+iris 1.4.5 -> 1.6.10
+cloth-config 6.4.90 -> 6.5.102
+architectury 4.10.88 -> 4.11.93
+Xaeros'Minimap 23.3.1 -> 23.8.3
+Xaeros'WorldMap 1.29.2 -> 1.35.0
+RoughlyEnoughItems 8.3.583 -> 8.3.662

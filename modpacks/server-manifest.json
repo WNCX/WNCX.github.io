@@ -1,8 +1,8 @@
 {
   "name": "1.18.2",
   "author": "Whoncxis",
-  "version": "1.2",
-  "description": "",
+  "version": "1.3",
+  "description": "iris 1.4.5 -\u003e 1.6.10\ncloth-config 6.4.90 -\u003e 6.5.102\narchitectury 4.10.88 -\u003e 4.11.93\nXaeros\u0027Minimap 23.3.1 -\u003e 23.8.3\nXaeros\u0027WorldMap 1.29.2 -\u003e 1.35.0\nRoughlyEnoughItems 8.3.583 -\u003e 8.3.662",
   "fileApi": "https://wncx.github.io/modpacks",
   "files": [
     {
@@ -574,20 +574,12 @@
       "hash": "6e94bcf19a62de427570bd13236fdca7334d7bc6"
     },
     {
-      "path": "irisUpdateInfo.json",
-      "hash": "0cf1a51a0680984074a565bf4d1f18f880ee305f"
+      "path": "mods/architectury-4.11.93-fabric.jar",
+      "hash": "04d694263c65fd6bed4cb14a3f45942d9d87df37"
     },
     {
-      "path": "log4j2.xml",
-      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
-    },
-    {
-      "path": "mods/architectury-4.10.88-fabric.jar",
-      "hash": "dfdd74e470939f58d1709a0a921c04b13ae96429"
-    },
-    {
-      "path": "mods/cloth-config-6.4.90-fabric.jar",
-      "hash": "4c88bab53b54736e87776b2b1c13343a70d43114"
+      "path": "mods/cloth-config-6.5.102-fabric.jar",
+      "hash": "d8996df838204ebe2aa7314b0a95914d326b37e0"
     },
     {
       "path": "mods/fabric-api-0.76.0+1.18.2.jar",
@@ -602,16 +594,12 @@
       "hash": "4b38e57770d29aedcce5c2d0081e815c40f86c12"
     },
     {
-      "path": "mods/iris-mc1.18.2-1.4.5.jar",
-      "hash": "46877a86e21ee9e9353d907596e9b940657d511a"
+      "path": "mods/iris-mc1.18.2-1.6.10.jar",
+      "hash": "db2ea1b4dbff1fd672da6f746633328e0e2b5003"
     },
     {
       "path": "mods/Joban-Client-Mod-1.18.2-1.2.1-hotfix-1.jar",
       "hash": "add6a91c2e18a4bf0a7d44093f7a3cb6bf476f41"
-    },
-    {
-      "path": "mods/lanserverproperties-1.8-fabric.jar",
-      "hash": "55e7785832b5085f01b3c0d4c1427a50d1e6d384"
     },
     {
       "path": "mods/modmenu-3.2.2.jar",
@@ -630,8 +618,8 @@
       "hash": "98f17a5a7a9f6c1454425986a4b38debd70ba43f"
     },
     {
-      "path": "mods/RoughlyEnoughItems-8.3.583.jar",
-      "hash": "5b28f2b411f4c39a4d3c431e42dac64b026ef686"
+      "path": "mods/RoughlyEnoughItems-8.3.662.jar",
+      "hash": "0db7c01d4ddd051571cf0d0d4380a77b646a32b9"
     },
     {
       "path": "mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
@@ -646,104 +634,20 @@
       "hash": "40fc7f7a734ccbd53365bc91c1a17fafcec1965d"
     },
     {
-      "path": "mods/XaerosWorldMap_1.29.2_Fabric_1.18.2.jar",
-      "hash": "b2b3f1407805cd26017fc39c41ab1535634b08a8"
+      "path": "mods/XaerosWorldMap_1.35.0_Fabric_1.18.2.jar",
+      "hash": "6d49219d575f604e7adc06c02fad4aaa17055043"
     },
     {
-      "path": "mods/Xaeros_Minimap_23.3.1_Fabric_1.18.2.jar",
-      "hash": "91f036440e6e7432f8b57ed92e7f2aa6cb96cdf9"
+      "path": "mods/Xaeros_Minimap_23.8.3_Fabric_1.18.2.jar",
+      "hash": "66b432d3b723fda742e0f7310bcd725a7917b7e9"
     },
     {
-      "path": "natives-windows-x86_64/glfw.dll",
-      "hash": "9d95a8f52cbd48ab87937714eb4fd2129ed10f0a"
-    },
-    {
-      "path": "natives-windows-x86_64/glfw32.dll",
-      "hash": "b9a18c65931b474a453cca5b20903220975f0fc9"
-    },
-    {
-      "path": "natives-windows-x86_64/jemalloc.dll",
-      "hash": "8a6eb00b934da6c97b0dc9d2dc321843076c8987"
-    },
-    {
-      "path": "natives-windows-x86_64/jemalloc32.dll",
-      "hash": "0d3c5c4d18d9a60501bce1f586684cd2fc5c466f"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl.dll",
-      "hash": "d01410449d2402a952e9a6063699f1868196883f"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl32.dll",
-      "hash": "a7aa4fbaa375fd39c4cb8eabeef45b44d5848bcb"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_opengl.dll",
-      "hash": "8e9836dd0d1691356db654aa02533ad80e9bf52c"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_opengl32.dll",
-      "hash": "2e0fe073b23ab972af00025097efcfcb446d927f"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_stb.dll",
-      "hash": "8b047fb3f6c31946fe33157e7912ac31595cd3b8"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_stb32.dll",
-      "hash": "1c28819763f77cbb4593a95b1cbb0999f136695d"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_tinyfd.dll",
-      "hash": "ec0fd8007afba6697d5b3b8249b5be27096a0ce8"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_tinyfd32.dll",
-      "hash": "079540a19727772f056cd80535e9645a674190b4"
-    },
-    {
-      "path": "natives-windows-x86_64/META-INF/INDEX.LIST",
-      "hash": "304659e97a4889e314e2ef15632d1ab02c19827e"
-    },
-    {
-      "path": "natives-windows-x86_64/META-INF/MANIFEST.MF",
-      "hash": "bb30425dff1ace753caf8b4f1d50a1a37c4fbaa5"
-    },
-    {
-      "path": "natives-windows-x86_64/META-INF/versions/9/module-info.class",
-      "hash": "4fda2f05729e5b34e9f5ae9deff1d516beab238b"
-    },
-    {
-      "path": "natives-windows-x86_64/OpenAL.dll",
-      "hash": "dc8f7a5704164fe3dff3631c326bab7159a9358d"
-    },
-    {
-      "path": "natives-windows-x86_64/OpenAL32.dll",
-      "hash": "aa3fa9446b7c1264e2b463bb53946718e4f8ce82"
-    },
-    {
-      "path": "natives-windows-x86_64/SAPIWrapper_x64.dll",
-      "hash": "c4a293116e7531d950db2d5ea737e61a9912b61d"
-    },
-    {
-      "path": "natives-windows-x86_64/SAPIWrapper_x86.dll",
-      "hash": "70e85ab3f880a7c3d5f0a9aae0f65661cb8af5a6"
+      "path": "mods/新建 文本文档.txt",
+      "hash": "0fe5fcdeea5cf8a50653794e94dccacc7a257dc2"
     },
     {
       "path": "options.txt",
       "hash": "6195b55818493d8a2a8e63290f2218954321f6d5"
-    },
-    {
-      "path": "resourcepacks/Guangzhou_Metro_Resource_Pack.zip",
-      "hash": "fc5e5c32dc75d8812563f91de791715f8069b61b"
-    },
-    {
-      "path": "resourcepacks/rafoline_2023_02_11_19_23_54.zip",
-      "hash": "de4babdc5ed7b4362273a04a43ca873d6d3578c3"
-    },
-    {
-      "path": "resourcepacks/rain_fo_line4_2023_02_08_22_11_06.zip",
-      "hash": "c398e3b2db31745660aebbad2c7601eb74bdada0"
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/village_south_line/0201-0202.ogg",
@@ -1010,32 +914,8 @@
       "hash": "d1f54319f1aa6d4ef5a4dcefbcab601073d158b5"
     },
     {
-      "path": "resourcepacks/__mtr_cache_file/a_train.bbmodel",
-      "hash": "d14072162c706a4e8bbf20110f31af622a5e8dd7"
-    },
-    {
-      "path": "resourcepacks/__mtr_cache_file/bogie_1.bbmodel",
-      "hash": "1a3eada44e295158c2eba769a00612b7bf62a35d"
-    },
-    {
-      "path": "resourcepacks/__mtr_cache_file/bogie_1.png",
-      "hash": "f5f9c9aaafc3ae7b5ad452e2640837dbfc92c3aa"
-    },
-    {
-      "path": "resourcepacks/__mtr_cache_file/rain_fo_line4.json",
-      "hash": "ef2d26f39e90cfd7047fa00e63eddcedc3a281f4"
-    },
-    {
-      "path": "resourcepacks/广州地铁V0.5.0.zip",
-      "hash": "536c739bc4f767db3792ed8061ee0604d2223200"
-    },
-    {
       "path": "shaderpacks/BSL_v8.1.02.2_fdi0Frx.zip",
       "hash": "676d60165dbc42c313cbab397159e1bb250b3b23"
-    },
-    {
-      "path": "shaderpacks/BSL_v8.1.02.2_fdi0Frx.zip.txt",
-      "hash": "e4b0d4b1f8c647c2cd64096417995f812d7da3f4"
     }
   ],
   "addons": [
