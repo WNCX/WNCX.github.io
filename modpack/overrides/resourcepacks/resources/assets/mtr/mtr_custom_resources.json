@@ -1,0 +1,28 @@
+{
+  "custom_trains": {
+    "west_to_east_line": {
+      "name": "西东线|West to East Line",
+      "color": "C3C32B",
+      "base_train_type": "m_train_mini",
+      "texture_id": "mtr:line_skin/wte_line_a.png"
+    },
+    "village_south_line": {
+      "name": "村南线|Village South Line",
+      "color": "DDA3E1",
+      "base_train_type": "k_train_mini",
+      "texture_id": "mtr:line_skin/vs_line_a.png"
+    },
+    "xunan_line": {
+      "name": "旭南线|Xunan Line",
+      "color": "5BC1F5",
+      "base_train_type": "c_train_mini",
+      "texture_id": "mtr:line_skin/xn_line_a.png"
+    },
+    "rain_forest_line": {
+      "name": "雨林线|Rain-forest Line",
+      "color": "FA8F40",
+      "texture_id": "mtr:line_skin/rf_line_a.png",
+      "base_train_type": "a_train_tcl_mini"
+    }
+  }
+}
