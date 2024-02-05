@@ -1,8 +1,8 @@
 {
-  "name": "1.18.2",
+  "name": "WCMTR整合",
   "author": "Whoncxis",
-  "version": "1.3",
-  "description": "iris 1.4.5 -\u003e 1.6.10\ncloth-config 6.4.90 -\u003e 6.5.102\narchitectury 4.10.88 -\u003e 4.11.93\nXaeros\u0027Minimap 23.3.1 -\u003e 23.8.3\nXaeros\u0027WorldMap 1.29.2 -\u003e 1.35.0\nRoughlyEnoughItems 8.3.583 -\u003e 8.3.662",
+  "version": "1.3.1",
+  "description": "更换默认下载源，避开因为mcbbs爆炸引起的下载失败\n\n如果下载失败或者发现启动后没有对应的游戏客户端出现请按照以下方法做：\n1、在主界面点击设置\n2、在设置中点击下载\n3、在自动下载源项选择尽量使用官方源\n4、返回主界面，将hmcl启动器同目录下的modpacks压缩包拖入主界面，选择安装",
   "fileApi": "https://wncx.github.io/modpacks",
   "files": [
     {
@@ -574,6 +574,10 @@
       "hash": "6e94bcf19a62de427570bd13236fdca7334d7bc6"
     },
     {
+      "path": "irisUpdateInfo.json",
+      "hash": "0cf1a51a0680984074a565bf4d1f18f880ee305f"
+    },
+    {
       "path": "mods/architectury-4.11.93-fabric.jar",
       "hash": "04d694263c65fd6bed4cb14a3f45942d9d87df37"
     },
@@ -642,8 +646,80 @@
       "hash": "66b432d3b723fda742e0f7310bcd725a7917b7e9"
     },
     {
-      "path": "mods/新建 文本文档.txt",
-      "hash": "0fe5fcdeea5cf8a50653794e94dccacc7a257dc2"
+      "path": "natives-windows-x86_64/glfw.dll",
+      "hash": "9d95a8f52cbd48ab87937714eb4fd2129ed10f0a"
+    },
+    {
+      "path": "natives-windows-x86_64/glfw32.dll",
+      "hash": "b9a18c65931b474a453cca5b20903220975f0fc9"
+    },
+    {
+      "path": "natives-windows-x86_64/jemalloc.dll",
+      "hash": "8a6eb00b934da6c97b0dc9d2dc321843076c8987"
+    },
+    {
+      "path": "natives-windows-x86_64/jemalloc32.dll",
+      "hash": "0d3c5c4d18d9a60501bce1f586684cd2fc5c466f"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "d01410449d2402a952e9a6063699f1868196883f"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl32.dll",
+      "hash": "a7aa4fbaa375fd39c4cb8eabeef45b44d5848bcb"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_opengl.dll",
+      "hash": "8e9836dd0d1691356db654aa02533ad80e9bf52c"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_opengl32.dll",
+      "hash": "2e0fe073b23ab972af00025097efcfcb446d927f"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_stb.dll",
+      "hash": "8b047fb3f6c31946fe33157e7912ac31595cd3b8"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_stb32.dll",
+      "hash": "1c28819763f77cbb4593a95b1cbb0999f136695d"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_tinyfd.dll",
+      "hash": "ec0fd8007afba6697d5b3b8249b5be27096a0ce8"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_tinyfd32.dll",
+      "hash": "079540a19727772f056cd80535e9645a674190b4"
+    },
+    {
+      "path": "natives-windows-x86_64/META-INF/INDEX.LIST",
+      "hash": "304659e97a4889e314e2ef15632d1ab02c19827e"
+    },
+    {
+      "path": "natives-windows-x86_64/META-INF/MANIFEST.MF",
+      "hash": "bb30425dff1ace753caf8b4f1d50a1a37c4fbaa5"
+    },
+    {
+      "path": "natives-windows-x86_64/META-INF/versions/9/module-info.class",
+      "hash": "4fda2f05729e5b34e9f5ae9deff1d516beab238b"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL.dll",
+      "hash": "dc8f7a5704164fe3dff3631c326bab7159a9358d"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL32.dll",
+      "hash": "aa3fa9446b7c1264e2b463bb53946718e4f8ce82"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x64.dll",
+      "hash": "c4a293116e7531d950db2d5ea737e61a9912b61d"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x86.dll",
+      "hash": "70e85ab3f880a7c3d5f0a9aae0f65661cb8af5a6"
     },
     {
       "path": "options.txt",
