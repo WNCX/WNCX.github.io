@@ -1,8 +1,8 @@
 {
-  "name": "WCMTR整合",
+  "name": "TCserver1.18.2(v1.3.2)",
   "author": "Whoncxis",
-  "version": "1.3.1",
-  "description": "更换默认下载源，避开因为mcbbs爆炸引起的下载失败\n\n如果下载失败或者发现启动后没有对应的游戏客户端出现请按照以下方法做：\n1、在主界面点击设置\n2、在设置中点击下载\n3、在自动下载源项选择尽量使用官方源\n4、返回主界面，将hmcl启动器同目录下的modpacks压缩包拖入主界面，选择安装",
+  "version": "1.3.2",
+  "description": "旭南线报站更新",
   "fileApi": "https://wncx.github.io/modpacks",
   "files": [
     {
@@ -574,6 +574,10 @@
       "hash": "6e94bcf19a62de427570bd13236fdca7334d7bc6"
     },
     {
+      "path": "hmclversion.cfg",
+      "hash": "5644d834596eddcb032e2b56c6f71fdf36d3d020"
+    },
+    {
       "path": "irisUpdateInfo.json",
       "hash": "0cf1a51a0680984074a565bf4d1f18f880ee305f"
     },
@@ -822,16 +826,20 @@
       "hash": "fcabf8666485d04c958f66a4669c605a20fd13eb"
     },
     {
+      "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0301-0301_1.ogg",
+      "hash": "b1cbe47598e39606d918c5bbb6acaefa45172103"
+    },
+    {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0301-0302.ogg",
-      "hash": "692c78337dea6cf0406e0de09900ac153cb58968"
+      "hash": "d79c43da8ef423940a41a5fc4876c596e77c9b41"
+    },
+    {
+      "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0301_1-0301.ogg",
+      "hash": "8a8134d1a5de97500b4206d3d43896ebcaee43d3"
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0302-0301.ogg",
-      "hash": "54564658ce4e61eb7a2f9dc6f8fd9aa9cca0f06d"
-    },
-    {
-      "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0302-0301b.ogg",
-      "hash": "dee421623da48ca289064331ff6a577c42eba116"
+      "hash": "fa65751a322d08caeb12e86f8031cf86f03d950c"
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0302-0303.ogg",
@@ -843,7 +851,7 @@
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0303-0304.ogg",
-      "hash": "5c1b034cce6e84e27f5f22f27c6e2af42e0b08b0"
+      "hash": "e3d7949e31daf68e69771a6228d63d7020b1691e"
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0304-0303.ogg",
@@ -851,11 +859,11 @@
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0304-0305.ogg",
-      "hash": "d3b6db2e585bb415fbc3f4d3d2fc26d3ffaf0fa6"
+      "hash": "45e8fce1fe7db6c674ad68cc2533781ef7262b87"
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0305-0304.ogg",
-      "hash": "76affa2e109ff9afaf3ba8bc9aea8f4115770917"
+      "hash": "cfe2c036986e2ad1750621c41be9ff06526ab4cf"
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0305-0307.ogg",
@@ -871,7 +879,7 @@
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0308-0305.ogg",
-      "hash": "ad3cf99d54e486b959ce32f86f0c7a02457e1f85"
+      "hash": "4137520a740499b825a404d1aa0837b8f4f5401e"
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds/xunan_line/0308-0309.ogg",
@@ -891,11 +899,11 @@
     },
     {
       "path": "resourcepacks/resources/assets/doorbell/sounds.json",
-      "hash": "7aaefe036a30dbe57d36de0c72e6e065a1c2c396"
+      "hash": "e7485b853a0d5ab2bc7f84aa98af81f5bfe95e65"
     },
     {
       "path": "resourcepacks/resources/assets/minecraft/texts/splashes.txt",
-      "hash": "8c0c5b4b90fb1ed46a916684fc38925b94ed7efe"
+      "hash": "3ac1734263a21d5f6aaa1c0b70831e82c4ec3851"
     },
     {
       "path": "resourcepacks/resources/assets/mtr/line_model/rafoline.bbmodel",
